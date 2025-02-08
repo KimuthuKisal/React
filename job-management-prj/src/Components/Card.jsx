@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Card = ({
   header,
@@ -13,12 +14,12 @@ const Card = ({
     <div className={`${bgColor} p-6 rounded-lg shadow-md`}>
       <h2 className="text-2xl font-bold">{header}</h2>
       <p className="mt-2 mb-4">{description}</p>
-      <a
-        href={hrefLink}
+      <Link
+        to={hrefLink}
         className={`inline-block ${btnColor} text-white rounded-lg px-4 py-2 hover:${btnHoverColor}`}
       >
         {btnInfo}
-      </a>
+      </Link>
     </div>
   );
 };

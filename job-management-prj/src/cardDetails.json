@@ -6,7 +6,7 @@
     "bgColor": "bg-gray-100",
     "btnColor": "bg-black",
     "btnHoverColor": "bg-gray-700",
-    "hrefLink": "/jobs.html"
+    "hrefLink": "/jobs"
   },
   {
     "header": "Developer Hiring",
@@ -15,7 +15,7 @@
     "bgColor": "bg-indigo-100",
     "btnColor": "bg-indigo-500",
     "btnHoverColor": "bg-indigo-600",
-    "hrefLink": "/post-job.html"
+    "hrefLink": "/post-job"
   },
   {
     "header": "Learning Resources",
@@ -24,7 +24,7 @@
     "bgColor": "bg-gray-100",
     "btnColor": "bg-black",
     "btnHoverColor": "bg-gray-700",
-    "hrefLink": "/resources.html"
+    "hrefLink": "/resources"
   },
   {
     "header": "Coding Competitions",
@@ -33,6 +33,6 @@
     "bgColor": "bg-indigo-100",
     "btnColor": "bg-indigo-500",
     "btnHoverColor": "bg-indigo-600",
-    "hrefLink": "/competitions.html"
+    "hrefLink": "/competitions"
   }
 ]
