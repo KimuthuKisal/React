@@ -1,0 +1,38 @@
+[
+  {
+    "header": "Developer Jobs",
+    "description": "Browse for Frontend Developer jobs which use React.",
+    "btnInfo": "Browse Dev Jobs",
+    "bgColor": "bg-gray-100",
+    "btnColor": "bg-black",
+    "btnHoverColor": "bg-gray-700",
+    "hrefLink": "/jobs.html"
+  },
+  {
+    "header": "Developer Hiring",
+    "description": "Add your available vacancies.",
+    "btnInfo": "Post a Job",
+    "bgColor": "bg-indigo-100",
+    "btnColor": "bg-indigo-500",
+    "btnHoverColor": "bg-indigo-600",
+    "hrefLink": "/post-job.html"
+  },
+  {
+    "header": "Learning Resources",
+    "description": "Find the best resources to level up your skills.",
+    "btnInfo": "Start Learning",
+    "bgColor": "bg-gray-100",
+    "btnColor": "bg-black",
+    "btnHoverColor": "bg-gray-700",
+    "hrefLink": "/resources.html"
+  },
+  {
+    "header": "Coding Competitions",
+    "description": "Participate in exciting coding challenges to test your skills.",
+    "btnInfo": "Join Competitions",
+    "bgColor": "bg-indigo-100",
+    "btnColor": "bg-indigo-500",
+    "btnHoverColor": "bg-indigo-600",
+    "hrefLink": "/competitions.html"
+  }
+]
