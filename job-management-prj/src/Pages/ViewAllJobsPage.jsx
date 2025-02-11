@@ -1,10 +1,10 @@
 import React from 'react'
 import JobList from '../Components/JobList'
 
-const ViewAllJobs = () => {
+const ViewAllJobsPage = () => {
   return (
     <JobList />
   )
 }
 
-export default ViewAllJobs
+export default ViewAllJobsPage

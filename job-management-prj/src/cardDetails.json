@@ -15,7 +15,7 @@
     "bgColor": "bg-indigo-100",
     "btnColor": "bg-indigo-500",
     "btnHoverColor": "bg-indigo-600",
-    "hrefLink": "/post-job"
+    "hrefLink": "/add-job"
   },
   {
     "header": "Learning Resources",
@@ -27,12 +27,12 @@
     "hrefLink": "/resources"
   },
   {
-    "header": "Coding Competitions",
-    "description": "Participate in exciting coding challenges to test your skills.",
-    "btnInfo": "Join Competitions",
+    "header": "SetUp React",
+    "description": "Kickstart your journey with hands-on React projects and challenges.",
+    "btnInfo": "Show Guidance",
     "bgColor": "bg-indigo-100",
     "btnColor": "bg-indigo-500",
     "btnHoverColor": "bg-indigo-600",
-    "hrefLink": "/competitions"
+    "hrefLink": "/guidance"
   }
 ]

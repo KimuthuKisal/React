@@ -50,7 +50,7 @@ const JobList = ({ recent = false }) => {
                 salary={jobDetail.salary}
                 location={jobDetail.location}
                 company={jobDetail.company}
-                hrefLink={`/job/${jobDetail.id}`}
+                hrefLink={`/jobs/${jobDetail.id}`}
                 date={jobDetail.date}
               />
             ))}
