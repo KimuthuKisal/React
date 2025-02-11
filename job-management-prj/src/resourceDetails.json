@@ -1,0 +1,38 @@
+[
+  {
+    "platform": "Udemy",
+    "topic": "Modern React with Redux [2024 Update]",
+    "description": "Master React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks!",
+    "hrefLink": "https://www.udemy.com/course/react-redux/?utm_source=bing&utm_medium=udemyads&utm_campaign=BG-Search_Keyword_Alpha_Prof_la.EN_cc.ROW-English&campaigntype=Search&portfolio=Bing-ROW-English&language=EN&product=Course&test=&audience=Keyword&topic=React_JS&priority=Alpha&utm_content=deal4584&utm_term=_._ag_1313918783731601_._ad__._kw_react+complete+course_._de_c_._dm__._pl__._ti_kwd-82121042539968%3Aloc-36_._li_142092_._pd__._&matchtype=p&couponCode=2021PM25"
+  },
+  {
+    "platform": "Medium",
+    "topic": "6 Best Places to Learn React.js Coding for FREE in 2024",
+    "description": "If you don’t know, React.js is a Javascript library and open-source created by the Facebook development team used for building the UI or user interface for the front-end website.",
+    "hrefLink": "https://medium.com/javarevisited/6-best-websites-to-learn-react-js-coding-for-free-ba7ec5c43433"
+  },
+  {
+    "platform": "Free Code Camp",
+    "topic": "How to Learn React in 2024 – A Step-by-Step Guide",
+    "description": "Keep in mind that becoming a skilled developer is not a race. This is just the path I personally would choose to learn React from front to back as quickly and efficiently as possible.",
+    "hrefLink": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/"
+  },
+  {
+    "platform": "Geeks for Geeks",
+    "topic": "10 Best React JS Courses [2025]",
+    "description": "Are you interested in web development and wondering which technology to master? Do you want to build dynamic, high-performing websites and web applications that can handle a large number of users efficiently?",
+    "hrefLink": "https://www.geeksforgeeks.org/best-react-js-courses-online-with-certificates/"
+  },
+  {
+    "platform": "React.dev",
+    "topic": "Quick Start",
+    "description": "Welcome to the React documentation! This page will give you an introduction to 80% of the React concepts that you will use on a daily basis.",
+    "hrefLink": "https://react.dev/learn"
+  },
+  {
+    "platform": "Codecademy",
+    "topic": "Free Course Learn React",
+    "description": "React (sometimes spelled React.js or ReactJS) is one of the most popular JavaScript libraries to develop powerful, interactive web applications. You’ll learn how to start with React and build up to dynamic user interfaces. You’ll work with React specific concepts like: JSX, components, state, props, hooks, and more. Take this course to gain an edge as a front-end or full-stack web developer.",
+    "hrefLink": "https://www.codecademy.com/learn/react-101"
+  }
+]

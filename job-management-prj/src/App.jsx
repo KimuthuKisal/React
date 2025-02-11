@@ -13,6 +13,8 @@ import NotFoundPage from "./Pages/NotFoundPage";
 import JobPage from "./Pages/JobPage";
 import AddJobPage from "./Pages/AddJobPage";
 import EditJobPage from "./Pages/EditJobPage";
+import LearningResourcePage from "./Pages/LearningResourcePage";
+import SetUpPage from "./Pages/SetUpPage";
 
 const App = () => {
   const loadJobData = async ({ params }) => {
@@ -59,9 +61,11 @@ const App = () => {
       <Route path="/" element={<MainLayout />}>
         <Route index element={<HomePage />} />
         <Route path="/jobs" element={<ViewAllJobsPage />} />
+        <Route path="/resources" element={<LearningResourcePage />} />
+        <Route path="/guidance" element={<SetUpPage />} />
         <Route path="/jobs/:id" element={<JobPage deleteJob={deleteJob} />} />
         <Route
-          path="/jobs/add"
+          path="/add-job"
           element={<AddJobPage addJobOnSubmit={addNewJob} />}
         />
         <Route
